@@ -1,8 +1,8 @@
 ﻿-- Read Me File --
 
 Contributers:
-	-	Niels Blonk (7458614)
-	-	Marc de Jong (7222270)
+	-	Niels Blonk 
+	-	Marc de Jong 
 
 Project details:
 	-	We have provided a few presets to browse through to show our various scenes. This is adjustable by holding one of the number keys (0-6);
